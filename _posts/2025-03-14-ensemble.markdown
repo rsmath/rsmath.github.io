@@ -8,6 +8,7 @@ author: "Ramansh Sharma"
 authors: "<strong>Ramansh Sharma</strong>, Varun Shankar"
 venue: "Transactions on Machine Learning Research (TMLR)"
 paper: /docs/ensemble.pdf
+code: https://github.com/rsmath/ensemble-deeponet
 arxiv: https://arxiv.org/abs/2405.11907
 ---
 
