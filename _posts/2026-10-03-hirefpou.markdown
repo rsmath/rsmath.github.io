@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Localized Operator Learning with Adaptive Partition-of-Unity Mixture-of-Expert Networks"
+date: 2026-10-03 18:48:14 +00:00
+image: /images/hirefpou.png
+categories: research
+author: "Ramansh Sharma"
+authors: "Madison Cooley, <strong>Ramansh Sharma</strong>, Shandian Zhe, Robert M. Kirby, Varun Shankar"
+venue: "Transactions on Machine Learning Research (TMLR)"
+paper: /docs/hirefpou.pdf
+arxiv: https://arxiv.org/abs/2610.04708
+---
+
+We introduce a partition-of-unity mixture-of-experts framework for localized operator learning, using geometry-aware gating networks to blend local experts through smooth spatial partitions. Our HiRefPOU architecture organizes DeepONet representations into nested parent-child partitions with residual refinement while preserving global continuity. We also incorporate spatial adaptivity into Fourier Neural Operators. On heterogeneous Darcy and reaction-diffusion benchmarks, HiRefPOU improves accuracy over global DeepONet and static POU-MoE baselines, with interpretable partitions that align with interfaces and regions of rapid solution variation.
